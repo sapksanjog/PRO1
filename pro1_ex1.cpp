@@ -1,6 +1,10 @@
 #include <iostream>
 using namespace std;
 
+// Task: read three integers and check if there is one of them which equals the average of the other two.
+// Input: three integers
+// Output: "YES" or "NO"
+
 /*
 int main(){
     int x, y, z;
